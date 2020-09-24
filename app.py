@@ -26,7 +26,7 @@ class Tinder:
         self.root.maxsize(350, 550)
 
         self.root.configure(background="#FF655B")
-        self.root.iconbitmap(r'C:\Users\acer\Downloads\tinderlogo.ico')
+        self.root.iconbitmap(r'C:\Users\acer\PycharmProjects\tinder\icon\tinderlogo.ico')
 
         self.loadloginGUI()
         self.root.mainloop()
